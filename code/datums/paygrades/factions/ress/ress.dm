@@ -1,7 +1,7 @@
 /datum/paygrade/ress
     name = "RESS Paygrade"
 
-
+//Replace with 3WE
 //RESS RMC
 /datum/paygrade/ress/rc1
 	paygrade = "RC1"
