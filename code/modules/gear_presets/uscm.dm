@@ -307,7 +307,7 @@
 	access = list(ACCESS_MARINE_PREP, ACCESS_MARINE_MEDPREP, ACCESS_MARINE_MEDBAY)
 	assignment = JOB_SQUAD_MEDIC
 	rank = JOB_SQUAD_MEDIC
-	paygrade = "ME3"
+	paygrade = "ME4"
 	role_comm_title = "HM"
 	skills = /datum/skills/combat_medic
 
@@ -395,7 +395,7 @@
 	access = list(ACCESS_MARINE_PREP, ACCESS_MARINE_LEADER, ACCESS_MARINE_DROPSHIP)
 	assignment = JOB_SQUAD_LEADER
 	rank = JOB_SQUAD_LEADER
-	paygrade = "ME5"
+	paygrade = "ME6"
 	role_comm_title = "SL"
 	minimum_age = 27
 	skills = /datum/skills/SL

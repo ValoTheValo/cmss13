@@ -27,7 +27,7 @@
 	)
 	assignment = JOB_POLICE
 	rank = JOB_POLICE
-	paygrade = "ME5"
+	paygrade = "ME4"
 	role_comm_title = "MP"
 	skills = /datum/skills/MP
 
@@ -81,7 +81,7 @@
 	)
 	assignment = JOB_POLICE_CADET
 	rank = JOB_POLICE_CADET
-	paygrade = "ME4"
+	paygrade = "ME1"
 	role_comm_title = "MPC"
 	skills = /datum/skills/MP
 
@@ -199,7 +199,7 @@
 	)
 	assignment = JOB_CHIEF_POLICE
 	rank = JOB_CHIEF_POLICE
-	paygrade = "MO2"
+	paygrade = "MO1"
 	role_comm_title = "CMP"
 	skills = /datum/skills/CMP
 
